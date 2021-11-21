@@ -2,6 +2,3 @@ Hello world from Hello.txt
 
 //some changes1
 //some changes2
-
-//some more changes1
-//some more changes2
